@@ -1,0 +1,4 @@
+requests
+asyncio
+python-telegram-bot
+dotenv
