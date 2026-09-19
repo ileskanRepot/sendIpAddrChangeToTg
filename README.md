@@ -2,7 +2,7 @@
 
 ## How to use
 
-First generate venv `python venv botenv`
+First generate venv `python -m venv botenv`
 
 Second start venv `source botenv/bin/activate`
 
